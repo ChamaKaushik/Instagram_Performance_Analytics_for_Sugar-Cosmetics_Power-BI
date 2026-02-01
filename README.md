@@ -135,10 +135,10 @@ Branded and niche hashtags performed better than generic ones.
 ## 🔗 Project Files & Links
 
 📊 Power BI Dashboard (PBIX File):  
-👉 [Download PBIX File](./your_file_name.pbix)
+👉 [Download PBIX File](./Dahboard.pbix)
 
 📑 Presentation (PPT):  
-👉 [View PPT](./your_presentation_name.pptx)
+👉 [View PPT](https://github.com/ChamaKaushik/Instagram_Performance_Analytics_for_Sugar-Cosmetics_Power-BI/blob/main/Project%20PPT.pptx)
 
 ## 🏷 Technical Tags
 
