@@ -29,7 +29,7 @@ An interactive dashboard was created to track key performance indicators (KPIs) 
 - impressions
 - hashtags
 
-**Dataset Link:** [Sugar Cosmetics Dataset]()
+**Dataset Link:** [Sugar Cosmetics Dataset](https://github.com/ChamaKaushik/Instagram_Performance_Analytics_for_Sugar-Cosmetics_Power-BI/blob/main/Sugar%20Cosmetics_Dataset.csv.csv)
 
 ## 🛠 Tools & Technologies Used
 
