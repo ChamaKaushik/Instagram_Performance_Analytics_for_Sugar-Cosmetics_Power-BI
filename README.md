@@ -140,7 +140,7 @@ Branded and niche hashtags performed better than generic ones.
 📑 Presentation (PPT):  
 👉 [View PPT](./your_presentation_name.pptx)
 
-### 🏷 Technical Tags
+## 🏷 Technical Tags
 
 #DataAnalytics
 #SocialMediaAnalytics
@@ -151,7 +151,7 @@ Branded and niche hashtags performed better than generic ones.
 #BusinessIntelligence
 #DataVisualization
 
-### 👤 Author
+## 👤 Author
 Chama Kaushik
 B.Tech CSE | Data Analyst
 📍 India
